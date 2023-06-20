@@ -37,4 +37,4 @@
 \contentsline {subsection}{\numberline {3.1.1}Vaman Board ESP32}{31}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}USB UART}{31}{subsection.3.1.2}%
 \contentsline {section}{\numberline {3.2}Circuit Connections}{32}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Code Execution For Wifi Toycar}{32}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Code Execution For Wifi}{32}{section.3.3}%
